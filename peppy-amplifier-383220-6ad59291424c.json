@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peppy-amplifier-383220",
+  "private_key_id": "6ad59291424c6a8b6881e06f8fbf7fa97f696d21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJUvMIrbyvNVti\nFKwRY7WEoeliVAQSmwX6Zm9BsjAhNmzHMVK6r2nc4vCrMI7tpBqxEzL+qdAV2OuN\n6M7pXr2V8VOz2qsg6lT+QzKnyF1Use9M2+q8ny8WdB+/pY/Dp19jzr9z2LS4P7dk\nO7mDxtFT8RkNv5/3VQU9LPB0W0FAycSkWrReylWLfy0xNmveUwrUoCaS2O6ObzFX\nNthwuJqpRm5goxBrN6UGUBgEHz5wY84kVHXQW5nGOY6UVm9JVmpxAgmTW2u7gwLD\ngYf49cWlXtbN+CVcTXblKiwdeLbFwOrEKTZFe+pImYaJ7ea+YZOuNSr8IRk3Q3tB\nvCbVeBwJAgMBAAECggEACYs7ClOezTOBYCHtKoE6RJdHI9cQeGWPRw2W9mMmrqw8\nZ6ShKgnWauxXyyIDEPeKhlt9/A57wIT0rAZt2PDFbtYYmeOc6Jr4oLo1W01U1TXP\nmpEfMZBDosUbzsM4KGIpwkNEcY3yU2rUOVJgTI0FD9cuBVNX0AX36P5GUOPlt1Wk\nc4YJgsA1+ycDvNqS3xMo3oh9UDEnPtByydGgSPWzNEj1vBCqzLlb5j3l//r5eXAW\n3TyQms89GH9vvfo3zabEmZthH6ZfXb6ZpGRDDMjjjM5oSFp0BwfAIbGCpEhQtAxK\nUXpNm6nF+2YD2TEVoAv7uS09Hbjah38P9v9UJLp0vQKBgQDAjddbbYCbSuaL/IXr\n4ZU9UJ6P4xyzzseGACwaA1g9FlxRjEWeVKn0/ymZVQpEzeRGGXZWYf6uHtDPpKZu\nVTrNQ8d1gAhLy0jvpNtY0gSo771+LqXbRJgtNlpba/uvtom0/N8Vh8UUei/530Ed\n+ny2ct7BBcksDOlQlu6ZCjA0xQKBgQC2kmPCHTa+zG9E2rAJo6BlihzFu+Q5EHeJ\ntuBcAeKVW7Y/kBhu9fWskM7UWOSVypjOhPL0pu2ZAVJHR9G9NKfGd2DltjFxZqq3\nS4/48JEfiXEBPKd9K32ivjCfpukDKS7JbZuJPgJIRbUsbphyw5tcYwGj5dlWqB60\nMpeIbFvmdQKBgDLeBbNYdS4RFmCKwFI1ELjW8FxwkeeKS7lBmGTy1z+kBZVhag7O\nrOtU8QdZqNHOVmySU2m0j5Qt/dms1G63Q0ZwjmOjBA4J0OXF9lA7gxGh67xG1Hfd\nYhonjq0yFJYxsaVHXCOS72Redwgai1hBEOsd42y4e5GQg55PkQ6K23tFAoGAGeKv\nmjoiJPM/Y3fONc+pUjw+0BpPxXd8O15eeS0bPyn9sQ1xKWpeJtVxPdJMtqA/Aij/\neYihb2wsika4iicJEq6iYm9umzF/SvW/uAAD04DdMNu0s56S9ZwZsMktiHEyXQTZ\nZKASGsUnZuFXZA4v3O18sgxIwGydzdbOfV0/unECgYEAnBnb///pb2OdwjonkUfs\nqnk86tejSE01U4nnjFJrWclCTIQ5ZWxCYv94VYOFHHXyJ0GQWUh4vIkDNraUmA1n\ndzfznpOsFCeuIYoMKngZSEXNwKYq3FqEJW1CrIuhi2XLgofyKAS7gC15P1h18tOA\ntK+7jE9RGTBS4V9CiJiHZUo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@peppy-amplifier-383220.iam.gserviceaccount.com",
+  "client_id": "100434966651266585462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40peppy-amplifier-383220.iam.gserviceaccount.com"
+}
