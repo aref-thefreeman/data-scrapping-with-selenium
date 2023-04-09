@@ -48,7 +48,7 @@ try:
             time.sleep(5)
             course_list = browser.find_element('id', 'course-list')
             course_items = course_list.find_elements('class name', 'course-dynamic-title')
-            # add course titles to the sheet
+            # add course titles to the sheets
             add_course_titles(course_items, sheet)
         else:
             break
